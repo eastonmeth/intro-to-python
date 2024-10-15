@@ -1,7 +1,7 @@
 course = 'Python for Beginners'
 
-print(course)
-print(course.upper())
-print(course.find('for'))
-print(course.replace('for', '4'))
-print('Python' in course)
+print(course) # Python for Beginners
+print(course.upper()) # PYHTON FOR BEGINNERS
+print(course.find('for')) # 7
+print(course.replace('for', '4')) # Python 4 Beginners
+print('Python' in course) # True
